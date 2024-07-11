@@ -1,5 +1,5 @@
 # ESP8266 Fake Captive Portal
-The **ESP8266 Captive Portal** is tool designed to streamline the process of connecting devices to a Wi-Fi network. By acting as an intermediary, this captive portal captures and saves Wi-Fi network credentials directly to the internal memory of the microcontroller. It can be used for Wi-Fi penetration testing, helping to identify vulnerabilities in network security by mimicking a legitimate access point and capturing sensitive data such as Wi-Fi passwords.
+The **ESP8266 Fake Captive Portal** is tool designed to streamline the process of connecting devices to a Wi-Fi network. By acting as an intermediary, this captive portal captures and saves Wi-Fi network credentials directly to the internal memory of the microcontroller. It can be used for Wi-Fi penetration testing, helping to identify vulnerabilities in network security by mimicking a legitimate access point and capturing sensitive data such as Wi-Fi passwords.
 
 # Usage
 
